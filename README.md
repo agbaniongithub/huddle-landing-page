@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/agbaniongithub/huddle-landing-page
+- Solution URL: [https://github.com/agbaniongithub/huddle-landing-page]
 - Live Site URL: [https://agbani-huddlelandingpage.netlify.app]
 
 ## My process
